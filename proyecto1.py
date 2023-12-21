@@ -6,3 +6,5 @@
 
 print(f"Hola {input('Cual es tu nombre?: ')} {input('Cual es tu apellido?: ')} con base en tus respuestas el nombre comercial de de tu cerveza"
       f" seria, {input('Cual es tu animal favorito?: ')} {input('Cual es tu color favorito?: ')} de {input('Cual es tu estacion del año favorita?: ')}")
+
+print("Felicidades por tu nueva cerveza")
