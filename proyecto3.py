@@ -28,7 +28,3 @@ print('TU TEXTO AL REVES')
 print(f'{texto_alreves}')
 print('\n')
 print(f'La parlabra "python" {dic[palabra]} se encuentra en tu texto')
-print('\n')
-
-print('\n')
-print(texto,letras,letras1,letras2,letras3,len(palabras_totales),texto[0],texto[-1],list(texto.split()[::-1]),palabra)
